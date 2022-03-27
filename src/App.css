@@ -1,0 +1,15 @@
+* {
+  background-color: rgba(155, 190, 212, 0.425) !important;
+}
+
+h1 {
+  font-size: 150px;
+  align-items: center;
+  margin-top: 17%;
+  background-color: rgba(155, 190, 212, 0.425) !important;
+  text-align: center;
+}
+
+#root {
+  background-color: rgba(155, 190, 212, 0.425) !important;
+}
